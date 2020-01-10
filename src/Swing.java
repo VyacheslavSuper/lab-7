@@ -7,7 +7,7 @@ import java.awt.event.*;
 public class Swing {
 
     public Swing() {
-        JFrame fram= new JFrame("Test");
+        JFrame fram= new JFrame("Lab7");
 
         fram.setLayout(new FlowLayout());
 

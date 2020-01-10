@@ -7,11 +7,6 @@ public class Main {
             @Override
             public void run() {
                 new Swing();
-                try {
-                    wait(1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
             }
         });
     }
